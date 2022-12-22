@@ -1,8 +1,7 @@
-# WhatsApp-button component (*Custom App*)
+# Bullets-diagramation component (*Custom App*)
 This WhatsApp-button component receives aphone number and a messagge to establish direct comunication with the user.
 
-![WhatsApp-button](/assets/img/WhatsApp-button.JPG)
-![Going to WhatsApp](/assets/img/WhatsApp-button2.JPG)
+![Bullets-diagramation gif](/assets/img/bullet-diagramation.gif)
 
 ## Configuration 
 
