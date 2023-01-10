@@ -1,5 +1,5 @@
 # Bullets-diagramation component (*Custom App*)
-This WhatsApp-button component receives aphone number and a messagge to establish direct comunication with the user.
+This component provides a context of elements that will render the lower levels of navigation within a list of bullets with images.
 
 ![Bullets-diagramation gif](/assets/img/bullet-diagramation.gif)
 
